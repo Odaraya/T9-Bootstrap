@@ -38,8 +38,11 @@ span{
 
 .card-img-top {
   object-fit: fill;
- height: 300px;
+
  border-bottom: 1px solid rgb(216, 209, 209);
+ object-fit: cover;
+height: 75%; 
+}
 
 }
 
